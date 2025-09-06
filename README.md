@@ -2,6 +2,6 @@
 <html>
   <head> 
     <title> Girlfriend Game </title> </head>
-    <bodystyle="backgroud-color:GhostWhite;">
+    <bodystyle="backgroud-color:pastelred;">
  </head>
 </html>
