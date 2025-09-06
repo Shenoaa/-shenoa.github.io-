@@ -1,7 +1,7 @@
 # -shenoa.github.io-
 <html>
   <head> 
-    <title> Girlfriend Game </title> </head>
+     Girlfriend Game </head>
     <bodystyle="backgroud-color:pastelred;">
  </head>
 </html>
